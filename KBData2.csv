@@ -1,0 +1,97 @@
+symptom,expression_site
+Chilles,Temperature
+High Body Temp,Temperature
+Low Body Temp,Temperature
+Shivering,Temperature
+Agitation,Neurological
+Dizziness,Neurological
+drowsiness,Neurological
+"fatigue/
+weakness",Neurological
+Headaches,Neurological
+Lack of coordination,Neurological
+Lower Mentatl State,Neurological
+"Neur_Numbness/
+tingling",Neurological
+Paralysis,Neurological
+Slurred Speech,Neurological
+"Spasm/
+seizures",Neurological
+unresponsive,Neurological
+Hearing Loss,Ears
+Tinnitus,Ears
+Constricted Pupils,Eyes
+Dilated Pupils,Eyes
+"Eye irritation/
+redness",Eyes
+Eye Swelling,Eyes
+Impaired Vision,Eyes
+Light Sensitivity,Eyes
+Tearing,Eyes
+Vision Loss,Eyes
+Bloddy Nose,Nose
+Nosal Irritation,Nose
+Runny nose,Nose
+Nose_Sneezing,Nose
+"MT_Coughing/
+chocking",Mouth/Throat
+"Drooling/
+Salivation",Mouth/Throat
+"Dry mouth/
+throat",Mouth/Throat
+Mouth irritation,Mouth/Throat
+Throat irritation,Mouth/Throat
+Arrythmia,Cardiovascular
+Bradycardia,Cardiovascular
+Chest pain,Cardiovascular
+Hypertension,Cardiovascular
+Hypotension/Shock,Cardiovascular
+"Card_Hypoxia/
+Cyanosis",Cardiovascular
+Tachycardia,Cardiovascular
+Chest Discomfort,Respiratory
+Congestion,Respiratory
+"Resp_Coughing/
+Chocking",Respiratory
+Coughing Blood,Respiratory
+"Resp_Hypoxia/
+cyanosis",Respiratory
+Irregular Breathing,Respiratory
+Pulmonary Edema,Respiratory
+Rapid Breathing,Respiratory
+"Resp burning/
+irritation",Respiratory
+Respiratory Arrest,Respiratory
+Shortness of Breathing,Respiratory
+Slow Breathing,Respiratory
+Resp_Sneezing,Respiratory
+Wheezing,Respiratory
+Abdom. Discomfort,Gastro/Urinary
+Abdom. Distension,Gastro/Urinary
+Diarrhea,Gastro/Urinary
+Nausea,Gastro/Urinary
+Urinary incontinence,Gastro/Urinary
+"Urinary pain/
+burning",Gastro/Urinary
+"Urination, bloody",Gastro/Urinary
+Vomiting,Gastro/Urinary
+Vomiting Blood,Gastro/Urinary
+Blistering,Skin
+"Cyanosis/
+blue",Skin
+Dry skin,Skin
+Frostbite,Skin
+itching,Skin
+"Jaundice/
+yellow",Skin
+"Skin_Numbness/
+tingling",Skin
+Pale,Skin
+"Peeling/
+exfoliation",Skin
+Rash,Skin
+"Skin burns/
+burning",Skin
+Skin redness,Skin
+Skin sweling,Skin
+Sweating,Skin
